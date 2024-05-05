@@ -1,6 +1,5 @@
 #include "testnabarbie.h"
 #include "ui_testnabarbie.h"
-#include "resultsontest.h"
 #include "mainwindow.h"
 #include <QPixmap>
 #include <QMessageBox>
@@ -24,6 +23,7 @@ TestNaBarbie::~TestNaBarbie()
 void TestNaBarbie::on_pushButton_clicked()
 {
 
+
     QString name = ui->line_name->text();
     QString age = ui->line_age->text();
 
@@ -31,10 +31,7 @@ void TestNaBarbie::on_pushButton_clicked()
         QMessageBox::warning(this, "Authorization", "Sorry, you have made a mistake in authorization" );
     }
     else{
-        this->hide();
-        resultsontest result;
-        result.setModal(true);
-        result.exec();
+
     }
 
 
@@ -42,12 +39,26 @@ void TestNaBarbie::on_pushButton_clicked()
 
 
 
-
-
 void TestNaBarbie::on_pushButton_results_clicked()
 {
+    int code = 0;
+    int code_2 = 0;
+    int magic = 0;
     QString name = ui->line_name->text();
+    if (name.size() >= 5){
+        code = 7;
+    }
+    else{
+        code = 2;
+    }
+
     QString age = ui->line_age->text();
+    if (age.size() == 2){
+        code_2 = 8;
+    }
+    else{
+        code_2 = 3;
+    }
     int counterHobby = -1;
     int counterColors = -1;
 
@@ -63,16 +74,16 @@ void TestNaBarbie::on_pushButton_results_clicked()
     else{
 
         if (ui->radioButton_emboroidery->isChecked()){
-            counterHobby = 4;
-        }
-        else if (ui->radioButton_hiking->isChecked()){
-            counterHobby = 2;
-        }
-        else if (ui->radioButton_shopping->isChecked()){
             counterHobby = 3;
         }
-        else if (ui->radioButton_travelling->isChecked()){
+        else if (ui->radioButton_hiking->isChecked()){
             counterHobby = 1;
+        }
+        else if (ui->radioButton_shopping->isChecked()){
+            counterHobby = 2;
+        }
+        else if (ui->radioButton_travelling->isChecked()){
+            counterHobby = 4;
         }
 
         if (ui->radioButton_pinkporsche->isChecked()){
@@ -88,12 +99,22 @@ void TestNaBarbie::on_pushButton_results_clicked()
             counterColors = 1;
         }
 
-        this->hide();
-        resultsontest result;
-        result.setModal(true);
-        result.exec();
+        if(ui->male->isChecked()){
+            QMessageBox::information(this, "barbie", "YOU ARE DEFINITELY THE KEN");
+        }
+        else{
+            magic = (code + code_2 + counterColors + counterHobby)%10;
+            if (magic == 1 || magic == 2 || magic == 3){
+                QMessageBox::information(this, "barbie", "YOU ARE A COUNTRYSIDE BARBIE");
+            }
+            else if (magic == 4 || magic == 5 || magic == 6){
+                QMessageBox::information(this, "barbie", "YOU ARE A PORSCHE BARBIE");
+            }
+            else{
+                QMessageBox::information(this, "barbie", "YOU ARE A CLASSIC PINK BARBIE");
+            }
+        }
+
     }
-
-
 }
 

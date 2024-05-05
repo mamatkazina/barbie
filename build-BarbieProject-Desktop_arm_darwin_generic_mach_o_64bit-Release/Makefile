@@ -248,6 +248,30 @@ BarbieProject_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/BarbieProject_autogen/mocs_compilation.cpp.s
 .PHONY : BarbieProject_autogen/mocs_compilation.cpp.s
 
+aboutbarbie.o: aboutbarbie.cpp.o
+.PHONY : aboutbarbie.o
+
+# target to build an object file
+aboutbarbie.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o
+.PHONY : aboutbarbie.cpp.o
+
+aboutbarbie.i: aboutbarbie.cpp.i
+.PHONY : aboutbarbie.i
+
+# target to preprocess a source file
+aboutbarbie.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.i
+.PHONY : aboutbarbie.cpp.i
+
+aboutbarbie.s: aboutbarbie.cpp.s
+.PHONY : aboutbarbie.s
+
+# target to generate assembly for a file
+aboutbarbie.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.s
+.PHONY : aboutbarbie.cpp.s
+
 databasewindow.o: databasewindow.cpp.o
 .PHONY : databasewindow.o
 
@@ -320,30 +344,6 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
-resultsontest.o: resultsontest.cpp.o
-.PHONY : resultsontest.o
-
-# target to build an object file
-resultsontest.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/resultsontest.cpp.o
-.PHONY : resultsontest.cpp.o
-
-resultsontest.i: resultsontest.cpp.i
-.PHONY : resultsontest.i
-
-# target to preprocess a source file
-resultsontest.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/resultsontest.cpp.i
-.PHONY : resultsontest.cpp.i
-
-resultsontest.s: resultsontest.cpp.s
-.PHONY : resultsontest.s
-
-# target to generate assembly for a file
-resultsontest.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/resultsontest.cpp.s
-.PHONY : resultsontest.cpp.s
-
 testnabarbie.o: testnabarbie.cpp.o
 .PHONY : testnabarbie.o
 
@@ -389,6 +389,9 @@ help:
 	@echo "... BarbieProject_autogen/mocs_compilation.o"
 	@echo "... BarbieProject_autogen/mocs_compilation.i"
 	@echo "... BarbieProject_autogen/mocs_compilation.s"
+	@echo "... aboutbarbie.o"
+	@echo "... aboutbarbie.i"
+	@echo "... aboutbarbie.s"
 	@echo "... databasewindow.o"
 	@echo "... databasewindow.i"
 	@echo "... databasewindow.s"
@@ -398,9 +401,6 @@ help:
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
-	@echo "... resultsontest.o"
-	@echo "... resultsontest.i"
-	@echo "... resultsontest.s"
 	@echo "... testnabarbie.o"
 	@echo "... testnabarbie.i"
 	@echo "... testnabarbie.s"

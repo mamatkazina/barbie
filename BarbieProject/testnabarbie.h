@@ -3,6 +3,7 @@
 
 #include <QDialog>
 
+
 namespace Ui {
 class TestNaBarbie;
 }
@@ -22,6 +23,7 @@ private slots:
 
 private:
     Ui::TestNaBarbie *ui;
+
 };
 
 #endif // TESTNABARBIE_H

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>aboutBarbie</class>
+ <widget class="QDialog" name="aboutBarbie">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1366</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>500</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background: rgb(254, 215, 255);</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QScrollArea" name="scrollArea">
+     <property name="styleSheet">
+      <string notr="true">background: rgb(255, 242, 252);</string>
+     </property>
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>1524</width>
+        <height>1724</height>
+       </rect>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QFrame" name="frame">
+         <property name="minimumSize">
+          <size>
+           <width>1500</width>
+           <height>1700</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true"/>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QWidget" name="">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>56</y>
+            <width>1398</width>
+            <height>1477</height>
+           </rect>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <item>
+            <widget class="QLabel" name="label">
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:48pt; font-weight:700; color:#f35de2;&quot;&gt;Barbie world&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="verticalSpacer">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Fixed</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>40</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <widget class="QLabel" name="label_2">
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;The humble Barbie doll has gone through quite a journey: a childhood toy, a feminist icon, a lightning rod for feminist discontent, a byword for bimbo and, thanks to this summer’s a cultural moment.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;But what is the real story of the doll that has never left the spotlight – or the toy box – in 64 years?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; font-weight:700; color:#f35de2;&quot;&gt;A doll to place your dreams on…&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;“Someday I’m gonna be, exactly like you… till then… I’ll make believe I’m you.” So went the dulcet tones of Barbie’s first ever in 1959. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;That year, what would come to be toy company Mattel’s most significant and long-lasting creation, Barbie, arrived. She was the brainchild of Ruth Handler.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;According to one of two origin stories, Handler noticed her daughter Barbara playing with paper dolls and decided she wanted to give her a doll that was a woman she could aspire to. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Barbie, named after her daughter, was born and she premiered at the annual Toy Fair in New York in March 1959. In the first year, 300,000 Barbie dolls were sold.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;She was ‘petite’ as the advert chimes, with all the latest clothes and accessories. Among these was, of course, a wedding dress. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Her immediate MO was clearly as a stylish and sophisticated style maven, the kind of svelte, pretty woman young girls wanted to be – at least in 1959. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Her first ever outfit – as exemplified in Gerwig’s initial teaser trailer for the Barbie movie – was a black and white swimsuit, with white heels and sunglasses. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Unsurprisingly, by 1961, she was ‘going steady’ with Ken (oddly named after the Handlers’ son).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; font-weight:700; color:#f35de2;&quot;&gt;Courting controversy&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;By the 1960s, Barbie was already attracting criticism for being a ‘sex symbol’. To counteract this, the Handlers gave her a little sister, Skipper, and a best friend, Midge – who would go to have her own chequered history. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Fashioned as a ‘homelier’ friend for Barbie Midge would disappear after 1967, returning in the 1980s along with a husband, kids and a ‘Happy Family Line’ of toys, which even included Pregnant Midge. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;The line courted scandal from every angle – among which was outrage that Midge was pregnant without a wedding ring. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Though to many Barbie was too conventional – with her improbable proportions and origins as a doll who aspires to, essentially, marry Ken – to many she was too progressive. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Indeed, as early as 1968, nine years after Barbie’s invention, Mattel introduced their first Black doll.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Christie arrived at a fecund point in American politics, just as the Civil Rights Act of 1968 – enshrining the illegality of radical discrimination– was passed.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;It would not be until 1980, however, that Mattel would produce its first Black Barbie. She was designed by Kitty Perkins&lt;/span&gt;&lt;a href=&quot;https://www.insider.com/barbie-kitty-black-perkins-designer-diversity-mattel-dolls-2023-4#in-1979-black-perkins-who-had-become-barbies-principal-designer-the-year-before-was-tasked-with-creating-an-outfit-for-the-first-ever-black-barbie-shes-black-shes-beautiful-shes-dynamite-the-dolls-box-said-6&quot;&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; text-decoration: underline; color:#094fd1;&quot;&gt;,&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt; who was then chief designer for Barbie.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;She bought her first Barbie doll aged 28, when interviewing for the position, when she was asked to create a whole new wardrobe for the doll. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;She was chief designer for more than 30 years and, in 1979, she was asked to design the first ever Black Barbie. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;When she arrived, she was wearing a red disco jumpsuit and came with the tagline: &amp;quot;She's Black! She's beautiful! She's dynamite!”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; font-weight:700; color:#f35de2;&quot;&gt;Barbie and feminism&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;If many were concerned that Barbie was too ‘sexy,’ there were true concerns amongst the feminist movement – which took on a whole new momentum in the 1960s and 1970s – that Barbie was an anti-feminist role model; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;a doll created (especially if we consider the alternative origin story) as a male, not a female, fantasy. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Quickly, Barbie had become a shorthand for bimbo, for a sort of man-pleasing vapidity that Second Wave feminists took issue with. Indeed, at a 1970 Women’s Strike for Equality march in New York, the chant became “I am not a Barbie doll”.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Yet Barbie was already a working woman. Just one year after her inception she was working as a fashion designer and the following year she took on three more jobs: an air stewardess, a nurse and a balerina.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Throughout her first decade, Barbie would take on myriad vocations; from tennis player to astronaut to the vaguely coverall job of ‘career girl’.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;While her earliest tasks were more stereotypically ‘feminine,’ by 1973, she was a surgeon, and in 1991, she joined the US Air Force, Navy and Marine Corps. By 1992.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;‘Business Executive Barbie’ had snagged herself a corner office and that same year, she made her first bid for President. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Fun fact: Barbie has run for president every election since. She has also, since 1959, held more than 250 careers – from dentist to Olympic skier. Busy girl.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;In her 1994 memoir, Ruth Handler said: “My whole philosophy of Barbie was that through the doll, the little girl could be anything she wanted to be. Barbie always represented the fact that a woman has choices.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; font-weight:700; color:#f35de2;&quot;&gt;Barbie and body image&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;If there is one unswerving commentary about Barbie, it is the unrealistic proportions of her figure. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Impossibly nipped-in waist, generous boobs and unbendable legs which, famously, would never be able to support Barbie’s frame in reality. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Beyond the fact that she is ludicrously appointed, it is the message this sends to young girls that has always caused concern. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;How impossible would it be to look like Barbie, and, equally, how depressing when you look nothing like her.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Indeed, the doll has historically propagated an unrealistic body type, and worrying messages. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;A 1963 Barbie came complete with a diet book that simply read ‘Don’t eat’. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;In 2006, a study published in the journal of Developmental Psychology concluded that girls exposed to Barbie at a young age were more vocal about being thin, compared with those exposed to other dolls.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Evelyn Mazzocco, head of the Barbie brand, undertook a poll of ‘Barbie haters’ shortly after she took over in 2014. She wanted to see why it was that the world’s most loved and hated doll drew such derision. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;The most common responses were ‘out of touch,’ ‘materialistic’ and ‘not diverse’. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;She told that year that she regularly received hate mail, and even death threats, about Barbie’s body. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Then, in 2016, three new body shapes were introduced to Barbie: petite, tall and curvy.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;In April of this year, Mattel released its first ever Barbie with Down Syndrome.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue'; font-weight:700; color:#f35de2;&quot;&gt;The legacy of Barbie&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;According to the most recent statistics, three Barbie dolls are sold every second. This means that approximately 1 billion dollars have been sold since Barbie arrived in 1959. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Mattel estimates that the doll has more than 99 per cent global awareness.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Helvetica Neue';&quot;&gt;Whatever we may think about Barbie – love or loathe her – it is impossible to ignore her worldwide impact.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

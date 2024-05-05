@@ -1079,15 +1079,19 @@ CMakeFiles/BarbieProject.dir/testnabarbie.cpp.o: \
   /opt/homebrew/include/QtGui/qvalidator.h \
   /opt/homebrew/include/QtCore/qregularexpression.h \
   /opt/homebrew/include/QtWidgets/QDialog \
+  /opt/homebrew/include/QtWidgets/QFormLayout \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qformlayout.h \
+  /opt/homebrew/include/QtWidgets/QLayout \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qlayout.h \
+  /opt/homebrew/include/QtWidgets/qlayoutitem.h \
+  /opt/homebrew/include/QtWidgets/qboxlayout.h \
+  /opt/homebrew/include/QtWidgets/qlayout.h \
+  /opt/homebrew/include/QtWidgets/qgridlayout.h \
   /opt/homebrew/include/QtWidgets/QGroupBox \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qgroupbox.h \
   /opt/homebrew/include/QtWidgets/qframe.h \
   /opt/homebrew/include/QtWidgets/QHBoxLayout \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qboxlayout.h \
-  /opt/homebrew/include/QtWidgets/qlayout.h \
-  /opt/homebrew/include/QtWidgets/qlayoutitem.h \
-  /opt/homebrew/include/QtWidgets/qboxlayout.h \
-  /opt/homebrew/include/QtWidgets/qgridlayout.h \
   /opt/homebrew/include/QtWidgets/QLabel \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qlabel.h \
   /opt/homebrew/include/QtGui/qpicture.h \
@@ -1107,9 +1111,6 @@ CMakeFiles/BarbieProject.dir/testnabarbie.cpp.o: \
   /opt/homebrew/include/QtWidgets/QSpacerItem \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qlayoutitem.h \
   /opt/homebrew/include/QtWidgets/QVBoxLayout \
-  /opt/homebrew/include/QtWidgets/QWidget \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/resultsontest.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \

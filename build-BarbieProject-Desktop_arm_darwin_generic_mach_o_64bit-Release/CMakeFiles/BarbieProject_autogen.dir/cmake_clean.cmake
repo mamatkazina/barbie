@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "BarbieProject_autogen/include/ui_aboutbarbie.h"
   "BarbieProject_autogen/include/ui_databasewindow.h"
   "BarbieProject_autogen/include/ui_mainwindow.h"
-  "BarbieProject_autogen/include/ui_resultsontest.h"
   "BarbieProject_autogen/include/ui_testnabarbie.h"
   "BarbieProject_autogen/mocs_compilation.cpp"
   "BarbieProject_autogen/timestamp"

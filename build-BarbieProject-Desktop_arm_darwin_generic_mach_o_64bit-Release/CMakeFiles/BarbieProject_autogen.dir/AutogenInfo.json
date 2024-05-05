@@ -349,6 +349,12 @@
 	"HEADERS" : 
 	[
 		[
+			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h",
+			"MU",
+			"EWIEGA46WW/moc_aboutbarbie.cpp",
+			null
+		],
+		[
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h",
 			"MU",
 			"EWIEGA46WW/moc_databasewindow.cpp",
@@ -358,12 +364,6 @@
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
-			null
-		],
-		[
-			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultsontest.h",
-			"MU",
-			"EWIEGA46WW/moc_resultsontest.cpp",
 			null
 		],
 		[
@@ -430,6 +430,11 @@
 	"SOURCES" : 
 	[
 		[
+			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp",
+			"MU",
+			null
+		],
+		[
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp",
 			"MU",
 			null
@@ -441,11 +446,6 @@
 		],
 		[
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.cpp",
-			"MU",
-			null
-		],
-		[
-			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultsontest.cpp",
 			"MU",
 			null
 		],

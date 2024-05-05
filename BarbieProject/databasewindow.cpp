@@ -12,3 +12,9 @@ databasewindow::~databasewindow()
 {
     delete ui;
 }
+
+void databasewindow::on_pushButton_3_clicked()
+{
+
+}
+

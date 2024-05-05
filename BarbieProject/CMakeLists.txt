@@ -24,9 +24,13 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
         testnabarbie.h testnabarbie.cpp testnabarbie.ui
-        resultsontest.h resultsontest.cpp resultsontest.ui
+
         resource.qrc
         databasewindow.h databasewindow.cpp databasewindow.ui
+        aboutbarbie.h aboutbarbie.cpp aboutbarbie.ui
+
+
+
 
     )
 # Define target properties for Android with Qt 6 as:
