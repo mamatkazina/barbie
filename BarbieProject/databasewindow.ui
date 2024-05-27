@@ -40,11 +40,11 @@
     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:36pt; font-weight:700; color:#f35de2;&quot;&gt;Lets find out some key factors from our research&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="addButton">
    <property name="geometry">
     <rect>
-     <x>760</x>
-     <y>120</y>
+     <x>860</x>
+     <y>320</y>
      <width>221</width>
      <height>32</height>
     </rect>
@@ -76,14 +76,14 @@
 </string>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string>Add</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="deleteButton">
    <property name="geometry">
     <rect>
-     <x>760</x>
-     <y>160</y>
+     <x>860</x>
+     <y>360</y>
      <width>221</width>
      <height>32</height>
     </rect>
@@ -115,14 +115,14 @@
 </string>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string>Delete</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_3">
    <property name="geometry">
     <rect>
-     <x>760</x>
-     <y>200</y>
+     <x>880</x>
+     <y>620</y>
      <width>221</width>
      <height>32</height>
     </rect>
@@ -154,7 +154,165 @@
 </string>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string>Sort by Series</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="barbieTableWidget">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>80</y>
+     <width>801</width>
+     <height>561</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="siriesEdit">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>90</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="yearSpinBox">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>200</y>
+     <width>181</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="salesSpinBox">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>250</y>
+     <width>191</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sortButton">
+   <property name="geometry">
+    <rect>
+     <x>860</x>
+     <y>450</y>
+     <width>221</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">  align-items: center;
+  background-color: #FFCCE5;
+  border: 2px solid #111;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #111;
+  cursor: pointer;
+  display: flex;
+  font-family: Inter,sans-serif;
+  font-size: 19px;
+  justify-content: center;
+  line-height: 24px;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+
+
+
+</string>
+   </property>
+   <property name="text">
+    <string>Sort by Model</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="seriesEdit">
+   <property name="geometry">
+    <rect>
+     <x>860</x>
+     <y>400</y>
+     <width>221</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">  align-items: center;
+  background-color: #FFCCE5;
+  border: 2px solid #111;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #111;
+  cursor: pointer;
+  display: flex;
+  font-family: Inter,sans-serif;
+  font-size: 19px;
+  justify-content: center;
+  line-height: 24px;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+
+
+
+</string>
+   </property>
+   <property name="text">
+    <string>Sort by Series</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="modelEdit">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>140</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QDoubleSpinBox" name="priceDoubleSpinBox">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>490</y>
+     <width>161</width>
+     <height>71</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="accessoriesEdit">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>580</y>
+     <width>113</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="sortComboBox_2">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>100</y>
+     <width>103</width>
+     <height>32</height>
+    </rect>
    </property>
   </widget>
  </widget>

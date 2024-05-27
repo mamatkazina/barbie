@@ -3,10 +3,23 @@
 
 #include <QDialog>
 #include <QtCore>
+#include <QMainWindow>
+// #include "barbiedatabase.h"
+
+
 
 namespace Ui {
 class databasewindow;
 }
+
+struct Barbie {
+    QString series;
+    QString model;
+    int year;
+    int sales;
+    double price;
+    QString accessories;
+};
 
 class databasewindow : public QDialog
 {
@@ -17,10 +30,16 @@ public:
     ~databasewindow();
 
 private slots:
-    void on_pushButton_3_clicked();
+    void loadDataFromCSV(const QString &filePath);
+    void addBarbie();
+    void deleteBarbie();
+    void sortTable();
+
 
 private:
     Ui::databasewindow *ui;
 };
 
 #endif // DATABASEWINDOW_H
+
+

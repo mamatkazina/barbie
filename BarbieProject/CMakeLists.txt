@@ -28,6 +28,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         resource.qrc
         databasewindow.h databasewindow.cpp databasewindow.ui
         aboutbarbie.h aboutbarbie.cpp aboutbarbie.ui
+        barbie.h
+        barbiedatabase.h
+        barbiedatabase.cpp
 
 
 
