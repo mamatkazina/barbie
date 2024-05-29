@@ -385,8 +385,11 @@
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtransform.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QDialog
+ mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h
+ mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h
+ mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
@@ -1834,6 +1837,10 @@
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/desinerofbarbie.cpp
+ uic:ui_desinerofbarbie.h
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h
 /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.cpp
  uic:ui_testnabarbie.h
 /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.cpp
@@ -2077,5 +2084,4 @@
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
-/Users/arinamamatkazina/PycharmProjects/BarbieProject/desinerofbarbie.cpp
- uic:ui_desinerofbarbie.h
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h

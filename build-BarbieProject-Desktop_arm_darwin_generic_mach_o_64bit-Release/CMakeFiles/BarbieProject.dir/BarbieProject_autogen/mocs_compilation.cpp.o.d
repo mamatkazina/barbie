@@ -1419,10 +1419,10 @@ CMakeFiles/BarbieProject.dir/BarbieProject_autogen/mocs_compilation.cpp.o: \
   /opt/homebrew/lib/QtCore.framework/Headers/qxmlstream.h \
   /opt/homebrew/lib/QtCore.framework/Headers/qxpfunctional.h \
   /opt/homebrew/include/QtCore/q23functional.h \
-  /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/../../../BarbieProject/mainwindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtabwidget.h \
+  /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+  /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/../../../BarbieProject/mainwindow.h \
   /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/../../../BarbieProject/testnabarbie.h

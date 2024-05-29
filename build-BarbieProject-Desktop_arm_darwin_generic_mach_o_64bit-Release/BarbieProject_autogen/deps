@@ -129,6 +129,9 @@ BarbieProject_autogen/timestamp: \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/CMakeLists.txt \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
+	/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+	/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+	/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
 	/Users/arinamamatkazina/PycharmProjects/BarbieProject/main.cpp \

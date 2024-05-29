@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/BarbieProject.dir/BarbieProject_autogen/mocs_compilation.cpp.o.d"
   "CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o"
   "CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o.d"
+  "CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o"
+  "CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o.d"
   "CMakeFiles/BarbieProject.dir/databasewindow.cpp.o"
   "CMakeFiles/BarbieProject.dir/databasewindow.cpp.o.d"
   "CMakeFiles/BarbieProject.dir/main.cpp.o"

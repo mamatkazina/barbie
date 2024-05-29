@@ -9,6 +9,7 @@
 	"INCLUDE_DIR" : "/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/include",
 	"INPUTS" : 
 	[
+		"/Users/arinamamatkazina/PycharmProjects/BarbieProject/file.csv",
 		"/Users/arinamamatkazina/PycharmProjects/BarbieProject/img/pic3.jpg",
 		"/Users/arinamamatkazina/PycharmProjects/BarbieProject/img/pic1.jpg",
 		"/Users/arinamamatkazina/PycharmProjects/BarbieProject/img/testbarbie.png",

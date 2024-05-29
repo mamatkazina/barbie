@@ -272,6 +272,30 @@ aboutbarbie.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.s
 .PHONY : aboutbarbie.cpp.s
 
+barbiedatabase.o: barbiedatabase.cpp.o
+.PHONY : barbiedatabase.o
+
+# target to build an object file
+barbiedatabase.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o
+.PHONY : barbiedatabase.cpp.o
+
+barbiedatabase.i: barbiedatabase.cpp.i
+.PHONY : barbiedatabase.i
+
+# target to preprocess a source file
+barbiedatabase.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.i
+.PHONY : barbiedatabase.cpp.i
+
+barbiedatabase.s: barbiedatabase.cpp.s
+.PHONY : barbiedatabase.s
+
+# target to generate assembly for a file
+barbiedatabase.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BarbieProject.dir/build.make CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.s
+.PHONY : barbiedatabase.cpp.s
+
 databasewindow.o: databasewindow.cpp.o
 .PHONY : databasewindow.o
 
@@ -392,6 +416,9 @@ help:
 	@echo "... aboutbarbie.o"
 	@echo "... aboutbarbie.i"
 	@echo "... aboutbarbie.s"
+	@echo "... barbiedatabase.o"
+	@echo "... barbiedatabase.i"
+	@echo "... barbiedatabase.s"
 	@echo "... databasewindow.o"
 	@echo "... databasewindow.i"
 	@echo "... databasewindow.s"

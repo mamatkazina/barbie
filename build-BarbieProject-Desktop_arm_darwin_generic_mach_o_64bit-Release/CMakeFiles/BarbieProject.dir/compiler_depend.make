@@ -133,6 +133,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -783,6 +786,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -1433,6 +1439,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -2083,6 +2092,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -2733,6 +2745,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -3383,6 +3398,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -4033,6 +4051,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -4683,6 +4704,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -5333,6 +5357,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -5983,6 +6010,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -6633,1956 +6663,9 @@ BarbieProject_autogen/timestamp: /Applications/CMake.app/Contents/bin/cmake \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/main.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/resource.qrc \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.ui \
-  .qtc/package-manager/auto-setup.cmake \
-  BarbieProject_autogen/moc_predefs.h \
-  CMakeFiles/3.29.0/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.29.0/CMakeSystem.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QDeadlineTimer \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QHash \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMap \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMutex \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QObject \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QString \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QStringList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QVariant \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCore \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCoreDepends \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20algorithm.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20chrono.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstracteventdispatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractnativeeventfilter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qapplicationstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassert.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassociativeiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbitarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbuffer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraymatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcbormap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamreader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamwriter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qchar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcollator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineoption.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineparser.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconcatenatetablesproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcryptographichash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdiriterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeasingcurve.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qendian.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexception.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfactoryinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileselector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfilesystemwatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qflags.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfutureinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturesynchronizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturewatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qidentityproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsondocument.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibrary.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibraryinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlockfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qloggingcategory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmath.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedatabase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimetype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmutex.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectcleanuphandler.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoperatingsystemversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpair.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qparallelanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpauseanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpermissions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qplugin.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpluginloader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocess.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpromise.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qproperty.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyprivate.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qqueue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrandom.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qreadwritelock.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrect.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresultstore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrunnable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsavefile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedvaluerollback.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qset.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsettings.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedmemory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsignalmapper.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsimd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsize.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsocketnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsortfilterproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstack.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstandardpaths.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstorageinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstring.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlistmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qswap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporarydir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporaryfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextboundaryfinder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthread.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadpool.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimeline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtipccommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtranslator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtransposeproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtsan_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurlquery.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/quuid.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversionnumber.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwaitcondition.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwineventnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxmlstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxpfunctional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qaction.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfont.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qicon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qimage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qregion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapAtomic.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapOpenGL.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeature.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeatureCommon.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/macos/Info.plist.app.in \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CorePlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/QtInstallPaths.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-  /Applications/CMake.app/Contents/bin/cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckLibraryExists.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/GNU.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindOpenGL.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageMessage.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindThreads.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindVulkan.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/MacroAddFileDependencies.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin-Initialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityMacros.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityVersions.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/TargetConditionals.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctermid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_intmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uintmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/alloca.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/arch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/assert.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/_OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/arm/OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/arm/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/machine/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc_type.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/runetype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stddef.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/strings.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_posix_availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_symbol_aliasing.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ct_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_intptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_null.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_off_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_offsetof.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ptrdiff_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rsize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_seek_set.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigaltstack.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigset_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_size_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ssize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_timeval.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ucontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uintptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_va_list.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wchar_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wint_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/appleapiopts.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/cdefs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/resource.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/syslimits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/wait.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/CMakeLists.txt \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/main.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/resource.qrc \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.ui \
-  .qtc/package-manager/auto-setup.cmake \
-  BarbieProject_autogen/moc_predefs.h \
-  CMakeFiles/3.29.0/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.29.0/CMakeSystem.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QDeadlineTimer \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QHash \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMap \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMutex \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QObject \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QString \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QStringList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QVariant \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCore \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCoreDepends \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20algorithm.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20chrono.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstracteventdispatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractnativeeventfilter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qapplicationstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassert.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassociativeiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbitarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbuffer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraymatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcbormap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamreader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamwriter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qchar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcollator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineoption.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineparser.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconcatenatetablesproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcryptographichash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdiriterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeasingcurve.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qendian.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexception.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfactoryinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileselector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfilesystemwatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qflags.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfutureinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturesynchronizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturewatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qidentityproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsondocument.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibrary.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibraryinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlockfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qloggingcategory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmath.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedatabase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimetype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmutex.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectcleanuphandler.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoperatingsystemversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpair.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qparallelanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpauseanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpermissions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qplugin.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpluginloader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocess.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpromise.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qproperty.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyprivate.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qqueue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrandom.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qreadwritelock.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrect.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresultstore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrunnable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsavefile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedvaluerollback.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qset.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsettings.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedmemory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsignalmapper.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsimd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsize.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsocketnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsortfilterproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstack.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstandardpaths.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstorageinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstring.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlistmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qswap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporarydir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporaryfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextboundaryfinder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthread.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadpool.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimeline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtipccommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtranslator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtransposeproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtsan_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurlquery.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/quuid.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversionnumber.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwaitcondition.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwineventnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxmlstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxpfunctional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qaction.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfont.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qicon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qimage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qregion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapAtomic.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapOpenGL.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeature.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeatureCommon.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/macos/Info.plist.app.in \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CorePlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/QtInstallPaths.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-  /Applications/CMake.app/Contents/bin/cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckLibraryExists.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/GNU.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindOpenGL.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageMessage.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindThreads.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindVulkan.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/MacroAddFileDependencies.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin-Initialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityMacros.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityVersions.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/TargetConditionals.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctermid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_intmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uintmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/alloca.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/arch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/assert.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/_OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/arm/OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/arm/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/machine/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc_type.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/runetype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stddef.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/strings.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_posix_availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_symbol_aliasing.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ct_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_intptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_null.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_off_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_offsetof.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ptrdiff_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rsize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_seek_set.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigaltstack.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigset_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_size_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ssize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_timeval.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ucontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uintptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_va_list.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wchar_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wint_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/appleapiopts.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/cdefs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/resource.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/syslimits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/wait.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/CMakeLists.txt \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/main.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/mainwindow.ui \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/resource.qrc \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/testnabarbie.ui \
-  .qtc/package-manager/auto-setup.cmake \
-  BarbieProject_autogen/moc_predefs.h \
-  CMakeFiles/3.29.0/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.29.0/CMakeSystem.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QDeadlineTimer \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QHash \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMap \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMutex \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QObject \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QString \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QStringList \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QVariant \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCore \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QtCoreDepends \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20algorithm.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20chrono.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23functional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstracteventdispatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractnativeeventfilter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qabstractproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qapplicationstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassert.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qassociativeiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbitarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbuffer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraymatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcbormap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamreader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborstreamwriter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qchar.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcollator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineoption.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcommandlineparser.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconcatenatetablesproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcryptographichash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qdiriterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeasingcurve.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qendian.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexception.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfactoryinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfileselector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfilesystemwatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qflags.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuture_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfutureinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturesynchronizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfuturewatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qidentityproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonarray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsondocument.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonvalue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibrary.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlibraryinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlockfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qloggingcategory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmath.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimedatabase.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmimetype.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmutex.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectcleanuphandler.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoperatingsystemversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpair.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qparallelanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpauseanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpermissions.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qplugin.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpluginloader.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocess.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpromise.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qproperty.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpropertyprivate.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qqueue.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrandom.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qreadwritelock.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrect.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresultstore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qrunnable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsavefile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopedvaluerollback.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialanimationgroup.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsequentialiterable.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qset.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsettings.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedmemory.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsignalmapper.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsimd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsize.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsocketnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsortfilterproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstack.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstandardpaths.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstorageinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstring.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlistmodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qswap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsystemsemaphore.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtcoreversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporarydir.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporaryfile.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextboundaryfinder.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthread.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadpool.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadstorage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimeline.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtipccommon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtranslator.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtransposeproxymodel.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtsan_impl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurl.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qurlquery.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/quuid.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantlist.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvector.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversionnumber.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwaitcondition.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qwineventnotifier.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxmlstream.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxpfunctional.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qaction.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfont.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qicon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qimage.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qregion.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapAtomic.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapOpenGL.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeature.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtFeatureCommon.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-  /opt/homebrew/Cellar/qt/6.6.2_1/lib/cmake/Qt6/macos/Info.plist.app.in \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CorePlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/QtInstallPaths.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-  /Applications/CMake.app/Contents/bin/cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckLibraryExists.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Compiler/GNU.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindOpenGL.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindPackageMessage.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindThreads.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/FindVulkan.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/MacroAddFileDependencies.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-AppleClang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang-CXX.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Apple-Clang.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin-Initialize.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/Darwin.cmake \
-  /Applications/CMake.app/Contents/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityMacros.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityVersions.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/TargetConditionals.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctermid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_intmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uint8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uintmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/alloca.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/arch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/assert.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/_OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/libkern/arm/OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/arm/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/machine/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/machine/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_malloc_type.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/runetype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stddef.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/strings.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_posix_availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_symbol_aliasing.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ct_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_intptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_null.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_off_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_offsetof.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ptrdiff_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rsize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rune_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_seek_set.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigaltstack.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigset_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_size_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ssize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_timeval.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ucontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_uintptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_va_list.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wchar_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wint_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/appleapiopts.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/cdefs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/resource.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/syslimits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/wait.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/CMakeLists.txt \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.h \
-  /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.ui \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp \
+  /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h \
   /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.ui \
@@ -11625,6 +9708,8 @@ CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o: /Users/arinamamatkazina/PycharmP
   /opt/homebrew/lib/QtWidgets.framework/Headers/qscrollarea.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h
 
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o: /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp
+
 CMakeFiles/BarbieProject.dir/databasewindow.cpp.o: /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityInternal.h \
@@ -12687,6 +10772,7 @@ CMakeFiles/BarbieProject.dir/databasewindow.cpp.o: /Users/arinamamatkazina/Pycha
   /opt/homebrew/include/QtCore/qhashfunctions.h \
   /opt/homebrew/include/QtCore/qiodevice.h \
   /opt/homebrew/include/QtCore/qiodevicebase.h \
+  /opt/homebrew/include/QtCore/qitemselectionmodel.h \
   /opt/homebrew/include/QtCore/qiterable.h \
   /opt/homebrew/include/QtCore/qiterator.h \
   /opt/homebrew/include/QtCore/qjsonobject.h \
@@ -12796,6 +10882,7 @@ CMakeFiles/BarbieProject.dir/databasewindow.cpp.o: /Users/arinamamatkazina/Pycha
   /opt/homebrew/include/QtGui/qkeysequence.h \
   /opt/homebrew/include/QtGui/qpaintdevice.h \
   /opt/homebrew/include/QtGui/qpalette.h \
+  /opt/homebrew/include/QtGui/qpen.h \
   /opt/homebrew/include/QtGui/qpicture.h \
   /opt/homebrew/include/QtGui/qpixelformat.h \
   /opt/homebrew/include/QtGui/qpixmap.h \
@@ -12803,23 +10890,50 @@ CMakeFiles/BarbieProject.dir/databasewindow.cpp.o: /Users/arinamamatkazina/Pycha
   /opt/homebrew/include/QtGui/qregion.h \
   /opt/homebrew/include/QtGui/qrgb.h \
   /opt/homebrew/include/QtGui/qrgba64.h \
+  /opt/homebrew/include/QtGui/qtextcursor.h \
   /opt/homebrew/include/QtGui/qtextdocument.h \
+  /opt/homebrew/include/QtGui/qtextformat.h \
+  /opt/homebrew/include/QtGui/qtextoption.h \
   /opt/homebrew/include/QtGui/qtgui-config.h \
   /opt/homebrew/include/QtGui/qtguiexports.h \
   /opt/homebrew/include/QtGui/qtguiglobal.h \
   /opt/homebrew/include/QtGui/qtransform.h \
+  /opt/homebrew/include/QtGui/qvalidator.h \
   /opt/homebrew/include/QtGui/qwindowdefs.h \
   /opt/homebrew/include/QtWidgets/QApplication \
+  /opt/homebrew/include/QtWidgets/QComboBox \
   /opt/homebrew/include/QtWidgets/QDialog \
+  /opt/homebrew/include/QtWidgets/QDoubleSpinBox \
+  /opt/homebrew/include/QtWidgets/QHeaderView \
   /opt/homebrew/include/QtWidgets/QLabel \
+  /opt/homebrew/include/QtWidgets/QLineEdit \
   /opt/homebrew/include/QtWidgets/QPushButton \
+  /opt/homebrew/include/QtWidgets/QSpinBox \
+  /opt/homebrew/include/QtWidgets/QTableWidget \
   /opt/homebrew/include/QtWidgets/qabstractbutton.h \
+  /opt/homebrew/include/QtWidgets/qabstractitemdelegate.h \
+  /opt/homebrew/include/QtWidgets/qabstractitemview.h \
+  /opt/homebrew/include/QtWidgets/qabstractscrollarea.h \
+  /opt/homebrew/include/QtWidgets/qabstractslider.h \
+  /opt/homebrew/include/QtWidgets/qabstractspinbox.h \
+  /opt/homebrew/include/QtWidgets/qdialog.h \
+  /opt/homebrew/include/QtWidgets/qdialogbuttonbox.h \
   /opt/homebrew/include/QtWidgets/qframe.h \
+  /opt/homebrew/include/QtWidgets/qrubberband.h \
   /opt/homebrew/include/QtWidgets/qsizepolicy.h \
+  /opt/homebrew/include/QtWidgets/qslider.h \
+  /opt/homebrew/include/QtWidgets/qstyle.h \
+  /opt/homebrew/include/QtWidgets/qstyleoption.h \
+  /opt/homebrew/include/QtWidgets/qtabbar.h \
+  /opt/homebrew/include/QtWidgets/qtableview.h \
+  /opt/homebrew/include/QtWidgets/qtabwidget.h \
   /opt/homebrew/include/QtWidgets/qtwidgets-config.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsexports.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \
   /opt/homebrew/include/QtWidgets/qwidget.h \
+  /opt/homebrew/lib/QtCore.framework/Headers/QDebug \
+  /opt/homebrew/lib/QtCore.framework/Headers/QFile \
+  /opt/homebrew/lib/QtCore.framework/Headers/QTextStream \
   /opt/homebrew/lib/QtCore.framework/Headers/QtCore \
   /opt/homebrew/lib/QtCore.framework/Headers/q20algorithm.h \
   /opt/homebrew/lib/QtCore.framework/Headers/q20chrono.h \
@@ -13052,10 +11166,20 @@ CMakeFiles/BarbieProject.dir/databasewindow.cpp.o: /Users/arinamamatkazina/Pycha
   /opt/homebrew/lib/QtCore.framework/Headers/qxmlstream.h \
   /opt/homebrew/lib/QtCore.framework/Headers/qxpfunctional.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QDialog \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QMessageBox \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QTableWidgetItem \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qapplication.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qcombobox.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qdialog.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qheaderview.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qlabel.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qlineedit.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qmessagebox.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qspinbox.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qtablewidget.h
 
 CMakeFiles/BarbieProject.dir/main.cpp.o: /Users/arinamamatkazina/PycharmProjects/BarbieProject/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h \
@@ -16720,29 +14844,19 @@ CMakeFiles/BarbieProject.dir/testnabarbie.cpp.o: /Users/arinamamatkazina/Pycharm
 
 /opt/homebrew/lib/QtWidgets.framework/Headers/qgroupbox.h:
 
-/opt/homebrew/include/QtWidgets/qabstractspinbox.h:
-
-/opt/homebrew/include/QtWidgets/QLineEdit:
-
 /opt/homebrew/include/QtWidgets/QGroupBox:
 
 /opt/homebrew/include/QtWidgets/QDateEdit:
 
 /opt/homebrew/include/QtWidgets/QCheckBox:
 
-/opt/homebrew/include/QtGui/qpen.h:
-
 /opt/homebrew/lib/QtWidgets.framework/Headers/qstatusbar.h:
 
 /opt/homebrew/lib/QtWidgets.framework/Headers/qlayout.h:
 
-/opt/homebrew/lib/QtWidgets.framework/Headers/QMessageBox:
-
 /opt/homebrew/lib/QtGui.framework/Headers/qpixmap.h:
 
 /opt/homebrew/lib/QtGui.framework/Headers/QPixmap:
-
-/opt/homebrew/include/QtWidgets/qdialogbuttonbox.h:
 
 /opt/homebrew/include/QtWidgets/QLayout:
 
@@ -16752,9 +14866,49 @@ BarbieProject_autogen/include/ui_mainwindow.h:
 
 /opt/homebrew/lib/QtWidgets.framework/Headers/QLabel:
 
+/opt/homebrew/lib/QtWidgets.framework/Headers/qheaderview.h:
+
+/opt/homebrew/lib/QtWidgets.framework/Headers/QTableWidgetItem:
+
+/opt/homebrew/lib/QtWidgets.framework/Headers/QMessageBox:
+
+/opt/homebrew/lib/QtCore.framework/Headers/QTextStream:
+
+/opt/homebrew/lib/QtCore.framework/Headers/QFile:
+
+/opt/homebrew/lib/QtCore.framework/Headers/QDebug:
+
+/opt/homebrew/include/QtWidgets/qtableview.h:
+
+/opt/homebrew/include/QtWidgets/qtabbar.h:
+
+/opt/homebrew/include/QtWidgets/qstyleoption.h:
+
+/opt/homebrew/include/QtWidgets/qstyle.h:
+
+/opt/homebrew/include/QtWidgets/qslider.h:
+
+/opt/homebrew/include/QtWidgets/qrubberband.h:
+
+/opt/homebrew/include/QtWidgets/qdialogbuttonbox.h:
+
+/opt/homebrew/include/QtWidgets/qabstractspinbox.h:
+
+/opt/homebrew/include/QtWidgets/qabstractitemview.h:
+
 /opt/homebrew/include/QtWidgets/qabstractbutton.h:
 
+/opt/homebrew/include/QtWidgets/QSpinBox:
+
 /opt/homebrew/include/QtWidgets/QPushButton:
+
+/opt/homebrew/include/QtWidgets/QLineEdit:
+
+/opt/homebrew/include/QtWidgets/QComboBox:
+
+/opt/homebrew/include/QtGui/qpen.h:
+
+/opt/homebrew/include/QtCore/qitemselectionmodel.h:
 
 BarbieProject_autogen/include/ui_databasewindow.h:
 
@@ -17248,6 +15402,10 @@ BarbieProject_autogen/include/ui_aboutbarbie.h:
 
 /opt/homebrew/include/QtCore/qdatetime.h:
 
+/opt/homebrew/include/QtCore/qdatastream.h:
+
+/opt/homebrew/include/QtCore/qdarwinhelpers.h:
+
 /opt/homebrew/include/QtCore/qcoreapplication.h:
 
 /opt/homebrew/include/QtWidgets/QStatusBar:
@@ -17431,10 +15589,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/typeinfo:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/tuple:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__utility/swap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/sstream:
 
@@ -17657,6 +15811,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
 
 /opt/homebrew/include/QtWidgets/QMainWindow:
+
+/opt/homebrew/lib/QtWidgets.framework/Headers/qspinbox.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
 
@@ -18040,6 +16196,10 @@ BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__iterator/mergeable.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/stdio.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__utility/swap.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h:
@@ -18071,6 +16231,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__iterator/empty.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/concepts.h:
+
+/opt/homebrew/include/QtWidgets/QDoubleSpinBox:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake:
 
@@ -18352,6 +16514,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__compare/compare_weak_order_fallback.h:
 
+/opt/homebrew/include/QtWidgets/qabstractslider.h:
+
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qeventloop.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h:
@@ -18484,9 +16648,13 @@ BarbieProject_autogen/include/ui_testnabarbie.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/pthread/sched.h:
 
+/opt/homebrew/include/QtWidgets/QTableWidget:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__atomic/atomic_flag.h:
+
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/transform_reduce.h:
 
@@ -18650,11 +16818,7 @@ BarbieProject_autogen/include/ui_testnabarbie.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_min_element.h:
 
-/opt/homebrew/lib/QtCore.framework/Headers/qfuture.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_binary_search.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_max_element.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
 
 /opt/homebrew/lib/QtCore.framework/Headers/qqueue.h:
 
@@ -18677,6 +16841,8 @@ BarbieProject_autogen/include/ui_testnabarbie.h:
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qthreadpool.h:
+
+/opt/homebrew/include/QtWidgets/qabstractitemdelegate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__concepts/destructible.h:
 
@@ -18763,6 +16929,12 @@ BarbieProject_autogen/include/ui_testnabarbie.h:
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qoverload.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_copy_backward.h:
+
+/opt/homebrew/lib/QtCore.framework/Headers/qfuture.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_max_element.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_binary_search.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qfilesystemwatcher.h:
 
@@ -18966,14 +17138,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_aboutbarbie.cpp:
 
 BarbieProject_autogen/mocs_compilation.cpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
-
-/Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_merge.h:
-
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/resource.h:
@@ -18996,9 +17160,9 @@ BarbieProject_autogen/mocs_compilation.cpp:
 
 /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake:
 
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__chrono/literals.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h:
 
 /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
@@ -19110,6 +17274,14 @@ BarbieProject_autogen/mocs_compilation.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_merge.h:
+
+/Applications/CMake.app/Contents/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake:
+
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-release.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake:
@@ -19133,10 +17305,6 @@ BarbieProject_autogen/mocs_compilation.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__threading_support:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
 
 /opt/homebrew/lib/QtCore.framework/Headers/qtversionchecks.h:
 
@@ -19368,6 +17536,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_prev_permutation.h:
 
+/opt/homebrew/include/QtWidgets/QHeaderView:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/partition_point.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake:
@@ -19393,12 +17563,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /opt/homebrew/lib/QtCore.framework/Headers/qexceptionhandling.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake:
-
-/opt/homebrew/lib/QtCore.framework/Headers/qsemaphore.h:
-
-/opt/homebrew/include/QtCore/qvariantanimation.h:
-
-/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake:
 
@@ -19640,6 +17804,22 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantlist.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/inclusive_scan.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ino_t.h:
+
+/opt/homebrew/include/QtCore/qsize.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/wait.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h:
+
 /opt/homebrew/lib/QtCore.framework/Headers/qtextstream.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_wctrans_t.h:
@@ -19712,32 +17892,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
 
-/opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_all_of.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h:
-
-/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake:
-
-/opt/homebrew/lib/QtCore.framework/Headers/qsimd.h:
-
-/opt/homebrew/include/QtCore/qthreadpool.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/quuid.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_limits.h:
-
-/opt/homebrew/lib/QtCore.framework/Headers/qcompare.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtemporaryfile.h:
@@ -19783,6 +17937,14 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake:
+
+/opt/homebrew/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_all_of.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h:
 
@@ -19914,6 +18076,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/stdexcept:
 
+/opt/homebrew/lib/QtWidgets.framework/Headers/qtablewidget.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qprocess.h:
@@ -19977,8 +18141,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qtransform.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qobject.h:
-
-/opt/homebrew/include/QtCore/qdatastream.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qresultstore.h:
 
@@ -20176,6 +18338,10 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/transform.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/_limits.h:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
+
 /opt/homebrew/include/QtCore/qtnoop.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_clock_t.h:
@@ -20193,6 +18359,8 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_equal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__utility/exception_guard.h:
+
+/opt/homebrew/lib/QtWidgets.framework/Headers/qcombobox.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h:
 
@@ -20232,12 +18400,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h:
 
-/opt/homebrew/include/QtCore/qsize.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcompare.h:
-
 /opt/homebrew/include/QtCore/qeventloop.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h:
@@ -20262,23 +18424,21 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_move_assignable.h:
 
-/opt/homebrew/include/QtCore/qpair.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
-/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
 
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/max.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h:
 
-/Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeGenericSystem.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__ranges/subrange.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__format/enable_insertable.h:
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpointer.h:
 
-/opt/homebrew/lib/QtCore.framework/Headers/qidentityproxymodel.h:
+/opt/homebrew/include/QtWidgets/qtwidgetsexports.h:
 
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcbormap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake:
 
@@ -20291,8 +18451,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h:
-
-/opt/homebrew/include/QtCore/qdarwinhelpers.h:
 
 /opt/homebrew/lib/QtCore.framework/Headers/qvariantmap.h:
 
@@ -20315,6 +18473,10 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMutex:
+
+/opt/homebrew/include/QtCore/qcontainerinfo.h:
+
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
 
@@ -20352,14 +18514,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/max.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__bit/byteswap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
@@ -20393,14 +18547,6 @@ BarbieProject_autogen/EWIEGA46WW/moc_testnabarbie.cpp:
 BarbieProject_autogen/EWIEGA46WW/moc_databasewindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_member_pointer.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__ranges/subrange.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qpointer.h:
-
-/opt/homebrew/include/QtWidgets/qtwidgetsexports.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/strip_signature.h:
 
@@ -20450,6 +18596,16 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 
 /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/limits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h:
+
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__random/generate_canonical.h:
 
 /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake:
@@ -20466,13 +18622,7 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_copy_n.h:
 
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/wait.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
-
-/opt/homebrew/include/QtCore/qcontainerinfo.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
 
@@ -20497,6 +18647,10 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 /opt/homebrew/include/QtCore/QDeadlineTimer:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
@@ -20556,6 +18710,22 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_rune_t.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
+
+/Applications/CMake.app/Contents/share/cmake-3.29/Modules/CMakeGenericSystem.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__format/enable_insertable.h:
+
+/opt/homebrew/lib/QtCore.framework/Headers/qidentityproxymodel.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qcbormap.h:
+
+/opt/homebrew/include/QtCore/qpair.h:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h:
+
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qaction.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_sigset_t.h:
@@ -20594,6 +18764,22 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h:
 
+/opt/homebrew/lib/QtCore.framework/Headers/qsimd.h:
+
+/opt/homebrew/include/QtCore/qthreadpool.h:
+
+/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/quuid.h:
+
+/opt/homebrew/lib/QtCore.framework/Headers/qcompare.h:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake:
+
+/opt/homebrew/lib/QtCore.framework/Headers/qsemaphore.h:
+
+/opt/homebrew/include/QtCore/qvariantanimation.h:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake:
+
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/AvailabilityVersions.h:
@@ -20603,10 +18789,6 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_endian.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/arm/limits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h:
 
@@ -20670,10 +18852,6 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/mach/arm/_structs.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/inclusive_scan.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h:
-
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/QMap:
 
 /opt/homebrew/lib/QtCore.framework/Headers/qtpreprocessorsupport.h:
@@ -20693,6 +18871,10 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__threading_support:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake:
 
@@ -20721,10 +18903,6 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__numeric/iota.h:
 
 /opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
-
-/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/ranges_replace_copy_if.h:
 
@@ -20781,8 +18959,6 @@ CMakeFiles/3.29.0/CMakeCXXCompiler.cmake:
 /opt/homebrew/lib/QtCore.framework/Headers/qsharedmemory.h:
 
 /Applications/CMake.app/Contents/share/cmake-3.29/Modules/CheckLibraryExists.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ino_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_u_int16_t.h:
 

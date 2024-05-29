@@ -39,27 +39,43 @@ namespace {
 struct qt_meta_stringdata_CLASSdatabasewindowENDCLASS_t {};
 constexpr auto qt_meta_stringdata_CLASSdatabasewindowENDCLASS = QtMocHelpers::stringData(
     "databasewindow",
-    "on_pushButton_3_clicked",
-    ""
+    "loadDataFromCSV",
+    "",
+    "filePath",
+    "addBarbie",
+    "deleteBarbie",
+    "sortTable"
 );
 #else  // !QT_MOC_HAS_STRING_DATA
 struct qt_meta_stringdata_CLASSdatabasewindowENDCLASS_t {
-    uint offsetsAndSizes[6];
+    uint offsetsAndSizes[14];
     char stringdata0[15];
-    char stringdata1[24];
+    char stringdata1[16];
     char stringdata2[1];
+    char stringdata3[9];
+    char stringdata4[10];
+    char stringdata5[13];
+    char stringdata6[10];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_CLASSdatabasewindowENDCLASS_t::offsetsAndSizes) + ofs), len 
 Q_CONSTINIT static const qt_meta_stringdata_CLASSdatabasewindowENDCLASS_t qt_meta_stringdata_CLASSdatabasewindowENDCLASS = {
     {
         QT_MOC_LITERAL(0, 14),  // "databasewindow"
-        QT_MOC_LITERAL(15, 23),  // "on_pushButton_3_clicked"
-        QT_MOC_LITERAL(39, 0)   // ""
+        QT_MOC_LITERAL(15, 15),  // "loadDataFromCSV"
+        QT_MOC_LITERAL(31, 0),  // ""
+        QT_MOC_LITERAL(32, 8),  // "filePath"
+        QT_MOC_LITERAL(41, 9),  // "addBarbie"
+        QT_MOC_LITERAL(51, 12),  // "deleteBarbie"
+        QT_MOC_LITERAL(64, 9)   // "sortTable"
     },
     "databasewindow",
-    "on_pushButton_3_clicked",
-    ""
+    "loadDataFromCSV",
+    "",
+    "filePath",
+    "addBarbie",
+    "deleteBarbie",
+    "sortTable"
 };
 #undef QT_MOC_LITERAL
 #endif // !QT_MOC_HAS_STRING_DATA
@@ -71,7 +87,7 @@ Q_CONSTINIT static const uint qt_meta_data_CLASSdatabasewindowENDCLASS[] = {
       12,       // revision
        0,       // classname
        0,    0, // classinfo
-       1,   14, // methods
+       4,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -79,9 +95,15 @@ Q_CONSTINIT static const uint qt_meta_data_CLASSdatabasewindowENDCLASS[] = {
        0,       // signalCount
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    0,   20,    2, 0x08,    1 /* Private */,
+       1,    1,   38,    2, 0x08,    1 /* Private */,
+       4,    0,   41,    2, 0x08,    3 /* Private */,
+       5,    0,   42,    2, 0x08,    4 /* Private */,
+       6,    0,   43,    2, 0x08,    5 /* Private */,
 
  // slots: parameters
+    QMetaType::Void, QMetaType::QString,    3,
+    QMetaType::Void,
+    QMetaType::Void,
     QMetaType::Void,
 
        0        // eod
@@ -96,7 +118,14 @@ Q_CONSTINIT const QMetaObject databasewindow::staticMetaObject = { {
     qt_incomplete_metaTypeArray<qt_meta_stringdata_CLASSdatabasewindowENDCLASS_t,
         // Q_OBJECT / Q_GADGET
         QtPrivate::TypeAndForceComplete<databasewindow, std::true_type>,
-        // method 'on_pushButton_3_clicked'
+        // method 'loadDataFromCSV'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<const QString &, std::false_type>,
+        // method 'addBarbie'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        // method 'deleteBarbie'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        // method 'sortTable'
         QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
@@ -108,11 +137,13 @@ void databasewindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _
         auto *_t = static_cast<databasewindow *>(_o);
         (void)_t;
         switch (_id) {
-        case 0: _t->on_pushButton_3_clicked(); break;
+        case 0: _t->loadDataFromCSV((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1]))); break;
+        case 1: _t->addBarbie(); break;
+        case 2: _t->deleteBarbie(); break;
+        case 3: _t->sortTable(); break;
         default: ;
         }
     }
-    (void)_a;
 }
 
 const QMetaObject *databasewindow::metaObject() const
@@ -134,13 +165,13 @@ int databasewindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 1)
+        if (_id < 4)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 1;
+        _id -= 4;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 1)
+        if (_id < 4)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 1;
+        _id -= 4;
     }
     return _id;
 }

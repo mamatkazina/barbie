@@ -355,6 +355,18 @@
 			null
 		],
 		[
+			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbie.h",
+			"MU",
+			"EWIEGA46WW/moc_barbie.cpp",
+			null
+		],
+		[
+			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.h",
+			"MU",
+			"EWIEGA46WW/moc_barbiedatabase.cpp",
+			null
+		],
+		[
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h",
 			"MU",
 			"EWIEGA46WW/moc_databasewindow.cpp",
@@ -431,6 +443,11 @@
 	[
 		[
 			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp",
 			"MU",
 			null
 		],

@@ -78,6 +78,7 @@ BarbieProject_autogen/timestamp: CMakeFiles/BarbieProject.dir/compiler_depend.ts
 
 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: /Users/arinamamatkazina/PycharmProjects/BarbieProject/resource.qrc
 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: CMakeFiles/BarbieProject_autogen.dir/AutoRcc_resource_EWIEGA46WW_Info.json
+BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: /Users/arinamamatkazina/PycharmProjects/BarbieProject/file.csv
 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: /Users/arinamamatkazina/PycharmProjects/BarbieProject/img/pic3.jpg
 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: /Users/arinamamatkazina/PycharmProjects/BarbieProject/img/pic1.jpg
 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp: /Users/arinamamatkazina/PycharmProjects/BarbieProject/img/testbarbie.png
@@ -172,10 +173,24 @@ CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutbarbie.cpp -o CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.s
 
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o: CMakeFiles/BarbieProject.dir/flags.make
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o: /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o: CMakeFiles/BarbieProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o -MF CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o.d -o CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o -c /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp
+
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp > CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.i
+
+CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/arinamamatkazina/PycharmProjects/BarbieProject/barbiedatabase.cpp -o CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.s
+
 CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o: CMakeFiles/BarbieProject.dir/flags.make
 CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o: BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp
 CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o: CMakeFiles/BarbieProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o -MF CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o.d -o CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o -c /Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp
 
 CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.i: cmake_force
@@ -194,6 +209,7 @@ BarbieProject_OBJECTS = \
 "CMakeFiles/BarbieProject.dir/testnabarbie.cpp.o" \
 "CMakeFiles/BarbieProject.dir/databasewindow.cpp.o" \
 "CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o" \
+"CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o" \
 "CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o"
 
 # External object files for target BarbieProject
@@ -205,13 +221,14 @@ BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/mai
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/testnabarbie.cpp.o
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/databasewindow.cpp.o
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/aboutbarbie.cpp.o
+BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/barbiedatabase.cpp.o
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp.o
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/build.make
 BarbieProject.app/Contents/MacOS/BarbieProject: /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets
 BarbieProject.app/Contents/MacOS/BarbieProject: /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui
 BarbieProject.app/Contents/MacOS/BarbieProject: /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore
 BarbieProject.app/Contents/MacOS/BarbieProject: CMakeFiles/BarbieProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable BarbieProject.app/Contents/MacOS/BarbieProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/arinamamatkazina/PycharmProjects/build-BarbieProject-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable BarbieProject.app/Contents/MacOS/BarbieProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BarbieProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
