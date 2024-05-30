@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/BarbieProject_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject",
+	"CMAKE_SOURCE_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/BarbieProject_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/file.csv",
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/img/pic3.jpg",
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/img/pic1.jpg",
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/img/testbarbie.png",
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/img/pic4.jpeg",
+		"/Users/MacBookPro/Documents/pro/barbie/BarbieProject/img/pic2.jpg"
+	],
+	"LOCK_FILE" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/BarbieProject_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/BarbieProject_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/MacBookPro/Documents/pro/barbie/BarbieProject/resource.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

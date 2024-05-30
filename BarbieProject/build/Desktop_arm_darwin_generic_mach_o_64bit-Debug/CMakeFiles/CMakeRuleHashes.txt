@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+d4521835273ed2c1e48361dc94e229e1 BarbieProject_autogen/EWIEGA46WW/qrc_resource.cpp
+8b0ebb7cb82ce90aaac34ca5b0b1eaf4 BarbieProject_autogen/timestamp
+2901dbd125049f23281b774ab672425c CMakeFiles/BarbieProject_autogen

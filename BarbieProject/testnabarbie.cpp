@@ -44,6 +44,7 @@ void TestNaBarbie::on_pushButton_results_clicked()
     int code = 0;
     int code_2 = 0;
     int magic = 0;
+    bool ok;
     QString name = ui->line_name->text();
     if (name.size() >= 5){
         code = 7;
@@ -65,11 +66,17 @@ void TestNaBarbie::on_pushButton_results_clicked()
     if (name.isEmpty() && age.isEmpty()){
         QMessageBox::warning(this, "Authorization", "Sorry, you have made a mistake in authorization" );
     }
+    else if ((age.toInt()<=0) && !(age.toInt(&ok))){
+        QMessageBox::warning(this, "Authorization", "Sorry, you can't be this age :(((((((((((((((((((((" );
+    }
     else if (!(ui->checkBox_castle->isChecked())){
         QMessageBox::warning(this, "Authorization", "Sorry, you have foggoten to choose castle" );
     }
     else if (!(ui->male->isChecked()) && !(ui->female->isChecked())){
         QMessageBox::warning(this, "Authorization", "Sorry, you have foggoten to put check into checkbox" );
+    }
+    else if ((ui->male->isChecked()) && (ui->female->isChecked())){
+        QMessageBox::warning(this, "Authorization", "Sorry, Sergey Savin has forbidden :(" );
     }
     else{
 
@@ -104,14 +111,35 @@ void TestNaBarbie::on_pushButton_results_clicked()
         }
         else{
             magic = (code + code_2 + counterColors + counterHobby)%10;
-            if (magic == 1 || magic == 2 || magic == 3){
+            if (magic == 1){
                 QMessageBox::information(this, "barbie", "YOU ARE A COUNTRYSIDE BARBIE");
             }
-            else if (magic == 4 || magic == 5 || magic == 6){
+            else if (magic == 2 ){
+                QMessageBox::information(this, "barbie", "YOU ARE A SPACE BARBIE");
+            }
+            else if (magic == 3){
+                QMessageBox::information(this, "barbie", "YOU ARE Aaaaaaaaaaaaaaa veeeee mariiiiiii aaaaaaa POP STAR BARBIE");
+            }
+            else if (magic == 4){
                 QMessageBox::information(this, "barbie", "YOU ARE A PORSCHE BARBIE");
             }
+            else if (magic == 5){
+                QMessageBox::information(this, "barbie", "YOU ARE A QUEEN BARBIE");
+            }
+            else if (magic == 6){
+                QMessageBox::information(this, "barbie", "YOU ARE A SUNNY BARBIE");
+            }
+            else if (magic == 7){
+                QMessageBox::information(this, "barbie", "YOU ARE A BITCH BARBIE");
+            }
+            else if (magic == 8){
+                QMessageBox::information(this, "barbie", "YOU ARE A WOMAN-CHERRY IN BLOOM BARBIE");
+            }
+            else if (magic == 9){
+                QMessageBox::information(this, "barbie", "YOU ARE A C++ BARBIE");
+            }
             else{
-                QMessageBox::information(this, "barbie", "YOU ARE A CLASSIC PINK BARBIE");
+                QMessageBox::information(this, "barbie", "YOU ARE A CLASSY PINK BARBIE");
             }
         }
 

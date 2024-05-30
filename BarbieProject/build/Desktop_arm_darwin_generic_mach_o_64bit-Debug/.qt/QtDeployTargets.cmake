@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_BarbieProject_FILE /Users/MacBookPro/Documents/pro/barbie/BarbieProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/BarbieProject.app/Contents/MacOS/BarbieProject)
