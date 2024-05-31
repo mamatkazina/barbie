@@ -2,6 +2,7 @@
 #include "ui_databasewindow.h"
 #include <QFile>
 #include <QTextStream>
+#include <fstream>
 #include <QMessageBox>
 #include <QTableWidgetItem>
 #include <QDebug>
@@ -17,14 +18,14 @@ databasewindow::databasewindow(QWidget *parent)
     connect(ui->sortButton, &QPushButton::clicked, this, &databasewindow::sortTable);
 
     // Load data from CSV
-    loadDataFromCSV(":/resources/file.csv");
+    loadDataFromCSV("file.csv");
 
     // Инициализация таблицы
     ui->barbieTableWidget->setColumnCount(6);
     QStringList headers = {"Series", "Model", "Year", "Sales", "Price", "Accessories"};
     ui->barbieTableWidget->setHorizontalHeaderLabels(headers);
     ui->barbieTableWidget->setColumnWidth(5, 400);
-    databasewindow::loadDataFromCSV(":/resources/file.csv");
+    databasewindow::loadDataFromCSV("file.csv");
 }
 
 databasewindow::~databasewindow()
@@ -58,6 +59,23 @@ void databasewindow::loadDataFromCSV(const QString &filePath) {
 }
 
 void databasewindow::addBarbie() {
+    QFile file1("file.csv");
+    if (!file1.open(QIODevice::ReadOnly)) {
+        QMessageBox::warning(this, "Error", "Could not open file");
+        return;
+    }
+    QTextStream in(&file1);
+    QString text = in.read(1000000);
+    file1.close();
+
+
+
+    QFile file2("file.csv");
+    if (!file2.open(QIODevice::WriteOnly)) {
+        QMessageBox::warning(this, "Error", "Could not open file");
+        return;
+    }
+    QTextStream out(&file2);
     int row = ui->barbieTableWidget->rowCount();
     ui->barbieTableWidget->insertRow(row);
 
@@ -67,6 +85,22 @@ void databasewindow::addBarbie() {
     ui->barbieTableWidget->setItem(row, 3, new QTableWidgetItem(QString::number(ui->salesSpinBox->value())));
     ui->barbieTableWidget->setItem(row, 4, new QTableWidgetItem(QString::number(ui->priceDoubleSpinBox->value())));
     ui->barbieTableWidget->setItem(row, 5, new QTableWidgetItem(ui->accessoriesEdit->text()));
+
+    QString newElement;
+    newElement = newElement + ui->siriesEdit->text() + ", ";
+    newElement = newElement + ui->modelEdit->text() + ", ";
+    newElement = newElement + QString::number(ui->yearSpinBox->value()) + ", ";
+    newElement = newElement + QString::number(ui->salesSpinBox->value()) + ", ";
+    newElement = newElement + QString::number(ui->priceDoubleSpinBox->value()) + ", ";
+    newElement = newElement + ui->accessoriesEdit->text();
+    newElement = text+'\n'+newElement;
+    QByteArray newElem1 = newElement.toUtf8();
+
+    // out << newElement << Qt::endl;
+    file2.write(newElem1);
+    qDebug() << newElement;
+    file2.close();
+
 }
 
 void databasewindow::deleteBarbie() {
