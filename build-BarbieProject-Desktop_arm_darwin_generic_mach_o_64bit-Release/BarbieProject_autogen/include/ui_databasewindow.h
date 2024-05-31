@@ -20,6 +20,8 @@
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QSpinBox>
 #include <QtWidgets/QTableWidget>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
 
@@ -27,19 +29,35 @@ class Ui_databasewindow
 {
 public:
     QLabel *label;
+    QTableWidget *barbieTableWidget;
+    QWidget *widget;
+    QVBoxLayout *verticalLayout_2;
+    QVBoxLayout *verticalLayout;
+    QComboBox *sortComboBox_2;
+    QPushButton *sortButton;
+    QWidget *widget1;
+    QVBoxLayout *verticalLayout_10;
+    QVBoxLayout *verticalLayout_3;
+    QLabel *name;
+    QLineEdit *siriesEdit;
+    QVBoxLayout *verticalLayout_4;
+    QLabel *name_2;
+    QLineEdit *modelEdit;
+    QVBoxLayout *verticalLayout_5;
+    QLabel *name_3;
+    QSpinBox *yearSpinBox;
+    QVBoxLayout *verticalLayout_6;
+    QLabel *name_4;
+    QSpinBox *salesSpinBox;
+    QVBoxLayout *verticalLayout_7;
+    QLabel *name_5;
+    QDoubleSpinBox *priceDoubleSpinBox;
+    QVBoxLayout *verticalLayout_8;
+    QLabel *name_6;
+    QLineEdit *accessoriesEdit;
+    QVBoxLayout *verticalLayout_9;
     QPushButton *addButton;
     QPushButton *deleteButton;
-    QPushButton *pushButton_3;
-    QTableWidget *barbieTableWidget;
-    QLineEdit *siriesEdit;
-    QSpinBox *yearSpinBox;
-    QSpinBox *salesSpinBox;
-    QPushButton *sortButton;
-    QPushButton *seriesEdit;
-    QLineEdit *modelEdit;
-    QDoubleSpinBox *priceDoubleSpinBox;
-    QLineEdit *accessoriesEdit;
-    QComboBox *sortComboBox_2;
 
     void setupUi(QDialog *databasewindow)
     {
@@ -54,112 +72,39 @@ public:
         QFont font;
         font.setPointSize(24);
         label->setFont(font);
-        addButton = new QPushButton(databasewindow);
-        addButton->setObjectName("addButton");
-        addButton->setGeometry(QRect(860, 320, 221, 32));
-        addButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
-"  background-color: #FFCCE5;\n"
-"  border: 2px solid #111;\n"
-"  border-radius: 8px;\n"
-"  box-sizing: border-box;\n"
-"  color: #111;\n"
-"  cursor: pointer;\n"
-"  display: flex;\n"
-"  font-family: Inter,sans-serif;\n"
-"  font-size: 19px;\n"
-"  justify-content: center;\n"
-"  line-height: 24px;\n"
-"  padding: 0 25px;\n"
-"  position: relative;\n"
-"  text-align: center;\n"
-"  text-decoration: none;\n"
-"  user-select: none;\n"
-"  -webkit-user-select: none;\n"
-"  touch-action: manipulation;\n"
-"\n"
-"\n"
-"\n"
-"\n"
-""));
-        deleteButton = new QPushButton(databasewindow);
-        deleteButton->setObjectName("deleteButton");
-        deleteButton->setGeometry(QRect(860, 360, 221, 32));
-        deleteButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
-"  background-color: #FFCCE5;\n"
-"  border: 2px solid #111;\n"
-"  border-radius: 8px;\n"
-"  box-sizing: border-box;\n"
-"  color: #111;\n"
-"  cursor: pointer;\n"
-"  display: flex;\n"
-"  font-family: Inter,sans-serif;\n"
-"  font-size: 19px;\n"
-"  justify-content: center;\n"
-"  line-height: 24px;\n"
-"  padding: 0 25px;\n"
-"  position: relative;\n"
-"  text-align: center;\n"
-"  text-decoration: none;\n"
-"  user-select: none;\n"
-"  -webkit-user-select: none;\n"
-"  touch-action: manipulation;\n"
-"\n"
-"\n"
-"\n"
-"\n"
-""));
-        pushButton_3 = new QPushButton(databasewindow);
-        pushButton_3->setObjectName("pushButton_3");
-        pushButton_3->setGeometry(QRect(880, 620, 221, 32));
-        pushButton_3->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
-"  background-color: #FFCCE5;\n"
-"  border: 2px solid #111;\n"
-"  border-radius: 8px;\n"
-"  box-sizing: border-box;\n"
-"  color: #111;\n"
-"  cursor: pointer;\n"
-"  display: flex;\n"
-"  font-family: Inter,sans-serif;\n"
-"  font-size: 19px;\n"
-"  justify-content: center;\n"
-"  line-height: 24px;\n"
-"  padding: 0 25px;\n"
-"  position: relative;\n"
-"  text-align: center;\n"
-"  text-decoration: none;\n"
-"  user-select: none;\n"
-"  -webkit-user-select: none;\n"
-"  touch-action: manipulation;\n"
-"\n"
-"\n"
-"\n"
-"\n"
-""));
         barbieTableWidget = new QTableWidget(databasewindow);
         barbieTableWidget->setObjectName("barbieTableWidget");
-        barbieTableWidget->setGeometry(QRect(40, 80, 801, 561));
-        siriesEdit = new QLineEdit(databasewindow);
-        siriesEdit->setObjectName("siriesEdit");
-        siriesEdit->setGeometry(QRect(870, 90, 191, 41));
-        yearSpinBox = new QSpinBox(databasewindow);
-        yearSpinBox->setObjectName("yearSpinBox");
-        yearSpinBox->setGeometry(QRect(870, 200, 181, 41));
-        salesSpinBox = new QSpinBox(databasewindow);
-        salesSpinBox->setObjectName("salesSpinBox");
-        salesSpinBox->setGeometry(QRect(870, 250, 191, 31));
-        sortButton = new QPushButton(databasewindow);
+        barbieTableWidget->setGeometry(QRect(40, 80, 811, 621));
+        barbieTableWidget->setLineWidth(1);
+        barbieTableWidget->setAutoScrollMargin(32);
+        widget = new QWidget(databasewindow);
+        widget->setObjectName("widget");
+        widget->setGeometry(QRect(870, 540, 211, 101));
+        verticalLayout_2 = new QVBoxLayout(widget);
+        verticalLayout_2->setObjectName("verticalLayout_2");
+        verticalLayout_2->setContentsMargins(0, 0, 0, 0);
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setObjectName("verticalLayout");
+        sortComboBox_2 = new QComboBox(widget);
+        sortComboBox_2->setObjectName("sortComboBox_2");
+
+        verticalLayout->addWidget(sortComboBox_2);
+
+
+        verticalLayout_2->addLayout(verticalLayout);
+
+        sortButton = new QPushButton(widget);
         sortButton->setObjectName("sortButton");
-        sortButton->setGeometry(QRect(860, 450, 221, 32));
         sortButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
 "  background-color: #FFCCE5;\n"
 "  border: 2px solid #111;\n"
-"  border-radius: 8px;\n"
+"  border-radius: 5px;\n"
 "  box-sizing: border-box;\n"
 "  color: #111;\n"
 "  cursor: pointer;\n"
 "  display: flex;\n"
 "  font-family: Inter,sans-serif;\n"
-"  font-size: 19px;\n"
+"  font-size: 18px;\n"
 "  justify-content: center;\n"
 "  line-height: 24px;\n"
 "  padding: 0 25px;\n"
@@ -168,25 +113,122 @@ public:
 "  text-decoration: none;\n"
 "  user-select: none;\n"
 "  -webkit-user-select: none;\n"
-"  touch-action: manipulation;\n"
-"\n"
-"\n"
-"\n"
-"\n"
-""));
-        seriesEdit = new QPushButton(databasewindow);
-        seriesEdit->setObjectName("seriesEdit");
-        seriesEdit->setGeometry(QRect(860, 400, 221, 32));
-        seriesEdit->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
+"  touch-action: manipulation;"));
+
+        verticalLayout_2->addWidget(sortButton);
+
+        widget1 = new QWidget(databasewindow);
+        widget1->setObjectName("widget1");
+        widget1->setGeometry(QRect(870, 80, 211, 445));
+        verticalLayout_10 = new QVBoxLayout(widget1);
+        verticalLayout_10->setObjectName("verticalLayout_10");
+        verticalLayout_10->setContentsMargins(0, 0, 0, 0);
+        verticalLayout_3 = new QVBoxLayout();
+        verticalLayout_3->setObjectName("verticalLayout_3");
+        name = new QLabel(widget1);
+        name->setObjectName("name");
+
+        verticalLayout_3->addWidget(name);
+
+        siriesEdit = new QLineEdit(widget1);
+        siriesEdit->setObjectName("siriesEdit");
+
+        verticalLayout_3->addWidget(siriesEdit);
+
+
+        verticalLayout_10->addLayout(verticalLayout_3);
+
+        verticalLayout_4 = new QVBoxLayout();
+        verticalLayout_4->setObjectName("verticalLayout_4");
+        name_2 = new QLabel(widget1);
+        name_2->setObjectName("name_2");
+
+        verticalLayout_4->addWidget(name_2);
+
+        modelEdit = new QLineEdit(widget1);
+        modelEdit->setObjectName("modelEdit");
+
+        verticalLayout_4->addWidget(modelEdit);
+
+
+        verticalLayout_10->addLayout(verticalLayout_4);
+
+        verticalLayout_5 = new QVBoxLayout();
+        verticalLayout_5->setObjectName("verticalLayout_5");
+        name_3 = new QLabel(widget1);
+        name_3->setObjectName("name_3");
+
+        verticalLayout_5->addWidget(name_3);
+
+        yearSpinBox = new QSpinBox(widget1);
+        yearSpinBox->setObjectName("yearSpinBox");
+        yearSpinBox->setMaximum(1000);
+
+        verticalLayout_5->addWidget(yearSpinBox);
+
+
+        verticalLayout_10->addLayout(verticalLayout_5);
+
+        verticalLayout_6 = new QVBoxLayout();
+        verticalLayout_6->setObjectName("verticalLayout_6");
+        name_4 = new QLabel(widget1);
+        name_4->setObjectName("name_4");
+
+        verticalLayout_6->addWidget(name_4);
+
+        salesSpinBox = new QSpinBox(widget1);
+        salesSpinBox->setObjectName("salesSpinBox");
+        salesSpinBox->setMaximum(10000);
+
+        verticalLayout_6->addWidget(salesSpinBox);
+
+
+        verticalLayout_10->addLayout(verticalLayout_6);
+
+        verticalLayout_7 = new QVBoxLayout();
+        verticalLayout_7->setObjectName("verticalLayout_7");
+        name_5 = new QLabel(widget1);
+        name_5->setObjectName("name_5");
+
+        verticalLayout_7->addWidget(name_5);
+
+        priceDoubleSpinBox = new QDoubleSpinBox(widget1);
+        priceDoubleSpinBox->setObjectName("priceDoubleSpinBox");
+
+        verticalLayout_7->addWidget(priceDoubleSpinBox);
+
+
+        verticalLayout_10->addLayout(verticalLayout_7);
+
+        verticalLayout_8 = new QVBoxLayout();
+        verticalLayout_8->setObjectName("verticalLayout_8");
+        name_6 = new QLabel(widget1);
+        name_6->setObjectName("name_6");
+
+        verticalLayout_8->addWidget(name_6);
+
+        accessoriesEdit = new QLineEdit(widget1);
+        accessoriesEdit->setObjectName("accessoriesEdit");
+
+        verticalLayout_8->addWidget(accessoriesEdit);
+
+
+        verticalLayout_10->addLayout(verticalLayout_8);
+
+        verticalLayout_9 = new QVBoxLayout();
+        verticalLayout_9->setObjectName("verticalLayout_9");
+        addButton = new QPushButton(widget1);
+        addButton->setObjectName("addButton");
+        addButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
 "  background-color: #FFCCE5;\n"
 "  border: 2px solid #111;\n"
-"  border-radius: 8px;\n"
+"  border-radius: 5px;\n"
 "  box-sizing: border-box;\n"
 "  color: #111;\n"
 "  cursor: pointer;\n"
 "  display: flex;\n"
 "  font-family: Inter,sans-serif;\n"
-"  font-size: 19px;\n"
+"  font-size: 18px;\n"
 "  justify-content: center;\n"
 "  line-height: 24px;\n"
 "  padding: 0 25px;\n"
@@ -201,18 +243,36 @@ public:
 "\n"
 "\n"
 ""));
-        modelEdit = new QLineEdit(databasewindow);
-        modelEdit->setObjectName("modelEdit");
-        modelEdit->setGeometry(QRect(870, 140, 191, 41));
-        priceDoubleSpinBox = new QDoubleSpinBox(databasewindow);
-        priceDoubleSpinBox->setObjectName("priceDoubleSpinBox");
-        priceDoubleSpinBox->setGeometry(QRect(870, 490, 161, 71));
-        accessoriesEdit = new QLineEdit(databasewindow);
-        accessoriesEdit->setObjectName("accessoriesEdit");
-        accessoriesEdit->setGeometry(QRect(870, 580, 113, 21));
-        sortComboBox_2 = new QComboBox(databasewindow);
-        sortComboBox_2->setObjectName("sortComboBox_2");
-        sortComboBox_2->setGeometry(QRect(110, 100, 103, 32));
+
+        verticalLayout_9->addWidget(addButton);
+
+        deleteButton = new QPushButton(widget1);
+        deleteButton->setObjectName("deleteButton");
+        deleteButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
+"  background-color: #FFCCE5;\n"
+"  border: 2px solid #111;\n"
+"  border-radius: 5px;\n"
+"  box-sizing: border-box;\n"
+"  color: #111;\n"
+"  cursor: pointer;\n"
+"  display: flex;\n"
+"  font-family: Inter,sans-serif;\n"
+"  font-size: 18px;\n"
+"  justify-content: center;\n"
+"  line-height: 24px;\n"
+"  padding: 0 25px;\n"
+"  position: relative;\n"
+"  text-align: center;\n"
+"  text-decoration: none;\n"
+"  user-select: none;\n"
+"  -webkit-user-select: none;\n"
+"  touch-action: manipulation;"));
+
+        verticalLayout_9->addWidget(deleteButton);
+
+
+        verticalLayout_10->addLayout(verticalLayout_9);
+
 
         retranslateUi(databasewindow);
 
@@ -223,11 +283,15 @@ public:
     {
         databasewindow->setWindowTitle(QCoreApplication::translate("databasewindow", "Dialog", nullptr));
         label->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:36pt; font-weight:700; color:#f35de2;\">Lets find out some key factors from our research</span></p></body></html>", nullptr));
+        sortButton->setText(QCoreApplication::translate("databasewindow", "Sort by Model", nullptr));
+        name->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write name</span></p></body></html>", nullptr));
+        name_2->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write model</span></p></body></html>", nullptr));
+        name_3->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write year</span></p></body></html>", nullptr));
+        name_4->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write sales</span></p></body></html>", nullptr));
+        name_5->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write price</span></p></body></html>", nullptr));
+        name_6->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write accessories</span></p></body></html>", nullptr));
         addButton->setText(QCoreApplication::translate("databasewindow", "Add", nullptr));
         deleteButton->setText(QCoreApplication::translate("databasewindow", "Delete", nullptr));
-        pushButton_3->setText(QCoreApplication::translate("databasewindow", "Sort by Series", nullptr));
-        sortButton->setText(QCoreApplication::translate("databasewindow", "Sort by Model", nullptr));
-        seriesEdit->setText(QCoreApplication::translate("databasewindow", "Sort by Series", nullptr));
     } // retranslateUi
 
 };

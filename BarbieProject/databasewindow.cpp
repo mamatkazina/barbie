@@ -23,21 +23,15 @@ databasewindow::databasewindow(QWidget *parent)
     ui->barbieTableWidget->setColumnCount(6);
     QStringList headers = {"Series", "Model", "Year", "Sales", "Price", "Accessories"};
     ui->barbieTableWidget->setHorizontalHeaderLabels(headers);
+    ui->barbieTableWidget->setColumnWidth(5, 400);
     databasewindow::loadDataFromCSV(":/resources/file.csv");
 }
-
-
-
 
 databasewindow::~databasewindow()
 {
     delete ui;
 }
 
-// void databasewindow::on_pushButton_3_clicked()
-// {
-
-// }
 
 
 void databasewindow::loadDataFromCSV(const QString &filePath) {
@@ -67,7 +61,7 @@ void databasewindow::addBarbie() {
     int row = ui->barbieTableWidget->rowCount();
     ui->barbieTableWidget->insertRow(row);
 
-    ui->barbieTableWidget->setItem(row, 0, new QTableWidgetItem(ui->seriesEdit->text()));
+    ui->barbieTableWidget->setItem(row, 0, new QTableWidgetItem(ui->siriesEdit->text()));
     ui->barbieTableWidget->setItem(row, 1, new QTableWidgetItem(ui->modelEdit->text()));
     ui->barbieTableWidget->setItem(row, 2, new QTableWidgetItem(QString::number(ui->yearSpinBox->value())));
     ui->barbieTableWidget->setItem(row, 3, new QTableWidgetItem(QString::number(ui->salesSpinBox->value())));
