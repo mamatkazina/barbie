@@ -1686,10 +1686,6 @@
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
-/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultonbarbie.cpp
- uic:ui_resultonbarbie.h
-/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultsontest.cpp
- uic:ui_resultsontest.h
 /Users/arinamamatkazina/PycharmProjects/BarbieProject/databasewindow.h
  mmc:Q_OBJECT
  mdp:/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/Availability.h
@@ -2083,5 +2079,9 @@
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/opt/homebrew/Cellar/qt/6.6.2_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultsontest.cpp
+ uic:ui_resultsontest.h
+/Users/arinamamatkazina/PycharmProjects/BarbieProject/resultonbarbie.cpp
+ uic:ui_resultonbarbie.h
 /Users/arinamamatkazina/PycharmProjects/BarbieProject/aboutBarbie.cpp
  uic:ui_aboutBarbie.h

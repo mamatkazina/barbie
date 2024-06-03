@@ -30,12 +30,12 @@ class Ui_databasewindow
 public:
     QLabel *label;
     QTableWidget *barbieTableWidget;
-    QWidget *widget;
+    QWidget *layoutWidget;
     QVBoxLayout *verticalLayout_2;
     QVBoxLayout *verticalLayout;
     QComboBox *sortComboBox_2;
     QPushButton *sortButton;
-    QWidget *widget1;
+    QWidget *layoutWidget1;
     QVBoxLayout *verticalLayout_10;
     QVBoxLayout *verticalLayout_3;
     QLabel *name;
@@ -77,15 +77,15 @@ public:
         barbieTableWidget->setGeometry(QRect(40, 80, 811, 621));
         barbieTableWidget->setLineWidth(1);
         barbieTableWidget->setAutoScrollMargin(32);
-        widget = new QWidget(databasewindow);
-        widget->setObjectName("widget");
-        widget->setGeometry(QRect(870, 540, 211, 101));
-        verticalLayout_2 = new QVBoxLayout(widget);
+        layoutWidget = new QWidget(databasewindow);
+        layoutWidget->setObjectName("layoutWidget");
+        layoutWidget->setGeometry(QRect(870, 570, 211, 101));
+        verticalLayout_2 = new QVBoxLayout(layoutWidget);
         verticalLayout_2->setObjectName("verticalLayout_2");
         verticalLayout_2->setContentsMargins(0, 0, 0, 0);
         verticalLayout = new QVBoxLayout();
         verticalLayout->setObjectName("verticalLayout");
-        sortComboBox_2 = new QComboBox(widget);
+        sortComboBox_2 = new QComboBox(layoutWidget);
         sortComboBox_2->setObjectName("sortComboBox_2");
 
         verticalLayout->addWidget(sortComboBox_2);
@@ -93,7 +93,7 @@ public:
 
         verticalLayout_2->addLayout(verticalLayout);
 
-        sortButton = new QPushButton(widget);
+        sortButton = new QPushButton(layoutWidget);
         sortButton->setObjectName("sortButton");
         sortButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
 "  background-color: #FFCCE5;\n"
@@ -117,20 +117,20 @@ public:
 
         verticalLayout_2->addWidget(sortButton);
 
-        widget1 = new QWidget(databasewindow);
-        widget1->setObjectName("widget1");
-        widget1->setGeometry(QRect(870, 80, 211, 445));
-        verticalLayout_10 = new QVBoxLayout(widget1);
+        layoutWidget1 = new QWidget(databasewindow);
+        layoutWidget1->setObjectName("layoutWidget1");
+        layoutWidget1->setGeometry(QRect(870, 80, 211, 445));
+        verticalLayout_10 = new QVBoxLayout(layoutWidget1);
         verticalLayout_10->setObjectName("verticalLayout_10");
         verticalLayout_10->setContentsMargins(0, 0, 0, 0);
         verticalLayout_3 = new QVBoxLayout();
         verticalLayout_3->setObjectName("verticalLayout_3");
-        name = new QLabel(widget1);
+        name = new QLabel(layoutWidget1);
         name->setObjectName("name");
 
         verticalLayout_3->addWidget(name);
 
-        siriesEdit = new QLineEdit(widget1);
+        siriesEdit = new QLineEdit(layoutWidget1);
         siriesEdit->setObjectName("siriesEdit");
 
         verticalLayout_3->addWidget(siriesEdit);
@@ -140,12 +140,12 @@ public:
 
         verticalLayout_4 = new QVBoxLayout();
         verticalLayout_4->setObjectName("verticalLayout_4");
-        name_2 = new QLabel(widget1);
+        name_2 = new QLabel(layoutWidget1);
         name_2->setObjectName("name_2");
 
         verticalLayout_4->addWidget(name_2);
 
-        modelEdit = new QLineEdit(widget1);
+        modelEdit = new QLineEdit(layoutWidget1);
         modelEdit->setObjectName("modelEdit");
 
         verticalLayout_4->addWidget(modelEdit);
@@ -155,12 +155,12 @@ public:
 
         verticalLayout_5 = new QVBoxLayout();
         verticalLayout_5->setObjectName("verticalLayout_5");
-        name_3 = new QLabel(widget1);
+        name_3 = new QLabel(layoutWidget1);
         name_3->setObjectName("name_3");
 
         verticalLayout_5->addWidget(name_3);
 
-        yearSpinBox = new QSpinBox(widget1);
+        yearSpinBox = new QSpinBox(layoutWidget1);
         yearSpinBox->setObjectName("yearSpinBox");
         yearSpinBox->setMaximum(1000);
 
@@ -171,12 +171,12 @@ public:
 
         verticalLayout_6 = new QVBoxLayout();
         verticalLayout_6->setObjectName("verticalLayout_6");
-        name_4 = new QLabel(widget1);
+        name_4 = new QLabel(layoutWidget1);
         name_4->setObjectName("name_4");
 
         verticalLayout_6->addWidget(name_4);
 
-        salesSpinBox = new QSpinBox(widget1);
+        salesSpinBox = new QSpinBox(layoutWidget1);
         salesSpinBox->setObjectName("salesSpinBox");
         salesSpinBox->setMaximum(10000);
 
@@ -187,12 +187,12 @@ public:
 
         verticalLayout_7 = new QVBoxLayout();
         verticalLayout_7->setObjectName("verticalLayout_7");
-        name_5 = new QLabel(widget1);
+        name_5 = new QLabel(layoutWidget1);
         name_5->setObjectName("name_5");
 
         verticalLayout_7->addWidget(name_5);
 
-        priceDoubleSpinBox = new QDoubleSpinBox(widget1);
+        priceDoubleSpinBox = new QDoubleSpinBox(layoutWidget1);
         priceDoubleSpinBox->setObjectName("priceDoubleSpinBox");
 
         verticalLayout_7->addWidget(priceDoubleSpinBox);
@@ -202,12 +202,12 @@ public:
 
         verticalLayout_8 = new QVBoxLayout();
         verticalLayout_8->setObjectName("verticalLayout_8");
-        name_6 = new QLabel(widget1);
+        name_6 = new QLabel(layoutWidget1);
         name_6->setObjectName("name_6");
 
         verticalLayout_8->addWidget(name_6);
 
-        accessoriesEdit = new QLineEdit(widget1);
+        accessoriesEdit = new QLineEdit(layoutWidget1);
         accessoriesEdit->setObjectName("accessoriesEdit");
 
         verticalLayout_8->addWidget(accessoriesEdit);
@@ -217,7 +217,7 @@ public:
 
         verticalLayout_9 = new QVBoxLayout();
         verticalLayout_9->setObjectName("verticalLayout_9");
-        addButton = new QPushButton(widget1);
+        addButton = new QPushButton(layoutWidget1);
         addButton->setObjectName("addButton");
         addButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
 "  background-color: #FFCCE5;\n"
@@ -246,7 +246,7 @@ public:
 
         verticalLayout_9->addWidget(addButton);
 
-        deleteButton = new QPushButton(widget1);
+        deleteButton = new QPushButton(layoutWidget1);
         deleteButton->setObjectName("deleteButton");
         deleteButton->setStyleSheet(QString::fromUtf8("  align-items: center;\n"
 "  background-color: #FFCCE5;\n"
@@ -283,7 +283,7 @@ public:
     {
         databasewindow->setWindowTitle(QCoreApplication::translate("databasewindow", "Dialog", nullptr));
         label->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:36pt; font-weight:700; color:#f35de2;\">Lets find out some key factors from our research</span></p></body></html>", nullptr));
-        sortButton->setText(QCoreApplication::translate("databasewindow", "Sort by Model", nullptr));
+        sortButton->setText(QCoreApplication::translate("databasewindow", "Sort", nullptr));
         name->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write name</span></p></body></html>", nullptr));
         name_2->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write model</span></p></body></html>", nullptr));
         name_3->setText(QCoreApplication::translate("databasewindow", "<html><head/><body><p><span style=\" font-size:18pt;\">Write year</span></p></body></html>", nullptr));

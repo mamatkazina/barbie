@@ -56,11 +56,11 @@
     <number>32</number>
    </property>
   </widget>
-  <widget class="QWidget" name="">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>870</x>
-     <y>540</y>
+     <y>570</y>
      <width>211</width>
      <height>101</height>
     </rect>
@@ -97,13 +97,13 @@
   touch-action: manipulation;</string>
       </property>
       <property name="text">
-       <string>Sort by Model</string>
+       <string>Sort</string>
       </property>
      </widget>
     </item>
    </layout>
   </widget>
-  <widget class="QWidget" name="">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>870</x>

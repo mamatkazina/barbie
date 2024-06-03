@@ -25,6 +25,20 @@ databasewindow::databasewindow(QWidget *parent)
     ui->barbieTableWidget->setHorizontalHeaderLabels(headers);
     ui->barbieTableWidget->setColumnWidth(5, 400);
     databasewindow::loadDataFromCSV(":/resources/file.csv");
+
+
+    // Добавление элементов выбора
+    ui->sortComboBox_2->addItem("        ");
+    ui->sortComboBox_2->addItem("year");
+    ui->sortComboBox_2->addItem("sales");
+    ui->sortComboBox_2->addItem("price");
+
+    // Подключение сигнала к слоту
+    connect(ui->sortComboBox_2, QOverload<int>::of(&QComboBox::currentIndexChanged),
+            [=](int index) {
+                qDebug() << "Selected index: " << index;
+                qDebug() << "Selected value: " << ui->sortComboBox_2->currentText();
+            });
 }
 
 databasewindow::~databasewindow()
@@ -78,5 +92,14 @@ void databasewindow::deleteBarbie() {
 
 void databasewindow::sortTable() {
     int columnIndex = ui->sortComboBox_2->currentIndex();
-    ui->barbieTableWidget->sortItems(columnIndex);
+    if (columnIndex == 1){
+        ui->barbieTableWidget->sortItems(2, Qt::AscendingOrder);
+    }
+    if (columnIndex == 2){
+        ui->barbieTableWidget->sortItems(3, Qt::AscendingOrder);
+    }
+    if (columnIndex == 3){
+        ui->barbieTableWidget->sortItems(4, Qt::AscendingOrder);
+    }
 }
+
